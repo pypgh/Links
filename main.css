@@ -15,6 +15,23 @@ text-align: center;
 .menu{
   text-align: center;
   font-family: 'Lato', sans-serif;
+}
+#button1{
+  text-decoration: none;
+}
+#button2{
+  text-decoration: none;
+}
+#button3{
+  text-decoration: none;
+}
+#resume{
+  text-decoration: none;
+}
+#linkedin{
+  text-decoration: none;
+}
+#twitter{
   text-decoration: none;
 }
 .body_text{
