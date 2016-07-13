@@ -81,6 +81,22 @@ text-align: center;
   text-decoration: none;
    color: #87CEFA;  
 }
+#resume:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#linkedin:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#twitter:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#courses:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
 .body_text{
   text-align: center;
   font-family: 'Lato', sans-serif;
